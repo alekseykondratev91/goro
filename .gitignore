@@ -9,3 +9,7 @@
 *.out
 coverage.xml
 report.xml
+
+#binary
+bin/
+
